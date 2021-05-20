@@ -1,5 +1,9 @@
 # ElClimaTeLoDigoYo
-## Entrega de Materia PWA
+
+## Datos de Entrega en Materia PWA
+ - Matias Leonardo Montechiari
+ - Comisión 3ero "A"
+ - Camino Elegido "B" (Incluir la API de google maps)
 
 ## Features
 
