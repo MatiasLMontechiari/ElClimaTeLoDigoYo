@@ -1,0 +1,2 @@
+const API_KEY = '' //Completar con la API KEY de https://openweathermap.org/current
+const API_KEY_MAP = '' //Completar con la API KEY de https://developers.google.com/maps/documentation/javascript/get-api-key?hl=es
