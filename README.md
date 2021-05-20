@@ -7,10 +7,6 @@
 - Con la ciudad buscada mostramos el clima de una forma amigable en pantalla
 - Ademas mostramos la ubicacion geografica del lugar
 
-This text you see here is *actually- written in Markdown! To get a feel
-for Markdown's syntax, type some text into the left window and
-watch the results in the right.
-
 ## Tech
 
 Las tecnologias utilizadas en este proyecto:
